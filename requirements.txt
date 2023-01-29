@@ -1,0 +1,10 @@
+face_recognition
+opencv-python
+python-telegram-bot
+numpy
+dlib
+fastapi
+uvicorn[standard]
+python-multipart
+psycopg2-binary
+requests
